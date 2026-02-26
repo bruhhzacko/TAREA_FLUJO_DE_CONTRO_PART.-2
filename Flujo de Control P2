@@ -12,7 +12,7 @@ Matrícula
 
 Descripción del Programa:
 Este programa fue desarrollado utilizando pseudocódigo en PSeInt.
-Permite introducir las calificaciones de varios estudiantes, calcular el promedio de cuatro notas y determinar si el estudiante aprobó o reprobó la asignatura.
+Permite introducir las calificaciones de varios estudiantes, calcular el promedio de cuatro notas y, determinar si el estudiante aprobó o reprobó la asignatura.
 
 El sistema pide:
 Cantidad de estudiantes
