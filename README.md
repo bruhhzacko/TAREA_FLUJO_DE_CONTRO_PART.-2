@@ -1,13 +1,13 @@
-Asignatura
+Asignatura:
 Lógica de Programación
 
-Profesor
+Profesor:
 Ing. Gamalier Reyes del Carmen
 
-Estudiante
+Estudiante:
 Ismael de Jesus Herrera Rosario 
 
-Matrícula
+Matrícula:
 2024-3187
 
 Descripción del Programa:
@@ -26,3 +26,4 @@ Estatus (Aprobado o Reprobado)
 
 Herramienta Utilizada:
 PSeInt
+
